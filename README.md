@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @leighboz
-- 👀 I’m interested in PHP, SQL
-- 🌱 I’m currently learning Laravel
-
+- 👀 I’m mainly interested in PHP and SQL
+- 🌱 I’m continuing to master Laravel
